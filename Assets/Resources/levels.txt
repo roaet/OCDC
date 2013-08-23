@@ -1,0 +1,115 @@
+=
+setup,1,0
+player,1,1
+base ,11111110111111,0
+paper,00000010000000,1
+text,poor jelly misses their flat home
+end,sometimes a little push is all we need
+= 
+setup,1,0
+player,4,5
+base ,11101111111111,0
+paper,00010000000000,4
+text,fill the gaps to ease the jelly's pain
+end,sometimes we just need time
+= 
+setup,1,0
+player,9,5
+base ,11111111011111,0
+stone,00000000100000,4
+end,some things are hard to change
+= 
+setup,1,0
+player,7,7
+base ,11101111111011,0
+paper,00010000000000,7
+stone,00010000000000,9
+end,it is good to see the whole situation
+= 
+setup,1,0
+player,7,2
+base ,11111000011111,0
+spike,00000111100000,3
+end,and to know when to leave things alone
+= 
+setup,2,0
+player,7,7
+base ,11101111111111,0
+base ,11101111111111,1
+egg  ,00010000000000,0
+paper,00000000001000,2
+spike,00010000000000,6
+text,some jellies lay eggs in the gaps
+end,and when to protect what you love
+= 
+setup,1,0
+player,1,1
+base ,00000000000000,1
+spike,10111111111111,10
+spike,10000000000000,9
+spike,10000000000000,8
+spike,10000000000000,7
+spike,11111111111110,6
+end,sometimes you just need to hang on
+= 
+setup,3,0
+player,7,7
+egg  ,00000000001000,0
+base ,11111111110111,1
+base ,11111111110111,0
+paper,01000000000000,16
+spike,00000000001000,19
+spike,00000001111111,20
+spike,11111110000000,14
+= 
+setup,2,0
+player,14,3
+base ,11111111011101,0
+base ,11111111011101,1
+egg  ,00000000000010,0
+paper,00100000000000,13
+spike,00000000100000,3
+spike,00000000100000,7
+spike,00000000100000,11
+spike,00000000100010,15
+end,some things look difficult
+= 
+setup,2,0
+player,7,7
+base ,11001010111011,1
+base ,11011110111011,0
+spike,00100000000000,14
+spike,00010000000000,14
+spike,00000100000000,14
+spike,00000001000000,14
+spike,00000000000100,14
+paper,01000000000000,10
+paper,00000000000010,11
+paper,00000000100000,9
+egg  ,00100000000000,0
+egg  ,00000001000000,0
+egg  ,00000000000100,0
+end,because they are different
+= 
+setup,1,0
+player,1,1
+base ,00000000000000,0
+spike,11111111111101,9
+spike,00000000000001,8
+spike,00000000000001,7
+spike,01111111111110,6
+= 
+setup,2,0
+player,1,3
+base ,01111111111111,0
+egg  ,10000000000000,0
+spike,10000000000000,14
+stone,01100000011111,15
+stone,00000000100000,8
+stone,00000001000000,7
+stone,00000010000000,6
+stone,00000100000000,5
+stone,00001000000000,4
+stone,00010000000000,3
+paper,00000000000100,6
+end,sometimes you just need to hang on
